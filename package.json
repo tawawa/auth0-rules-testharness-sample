@@ -1,0 +1,30 @@
+{
+  "name": "auth0-rules-testharness-sample",
+  "version": "1.0.0",
+  "description": "Seed project for auth0-rules-testharness-sample to help users get started immediately",
+  "author": "Richard Seldon<arcseldon@gmail.com>",
+  "main": "./test.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tawawa/auth0-rules-testharness-sample.git"
+  },
+  "keywords": [
+    "auth0",
+    "rules",
+    "sandbox",
+    "webtask",
+    "sample",
+    "tenant",
+    "test",
+    "testharness"
+  ],
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "auth0-rules-testharness": "^1.0.4",
+    "chai": "^3.5.0",
+    "dotenv": "^4.0.0",
+    "mocha": "^3.2.0"
+  }
+}
