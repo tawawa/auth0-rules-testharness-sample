@@ -1,7 +1,7 @@
 {
   "name": "auth0-rules-testharness-sample",
   "version": "1.0.0",
-  "description": "Seed project for auth0-rules-testharness-sample to help users get started immediately",
+  "description": "Seed project for auth0-rules-testharness to help users get started immediately",
   "author": "Richard Seldon<arcseldon@gmail.com>",
   "main": "./test.js",
   "repository": {
