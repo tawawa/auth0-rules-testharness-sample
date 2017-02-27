@@ -22,7 +22,7 @@
     "test": "mocha test.js"
   },
   "dependencies": {
-    "auth0-rules-testharness": "^1.0.4",
+    "auth0-rules-testharness": "^1.0.6",
     "chai": "^3.5.0",
     "dotenv": "^4.0.0",
     "mocha": "^3.2.0"
